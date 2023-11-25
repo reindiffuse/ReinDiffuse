@@ -1,6 +1,11 @@
 # ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model
-**[[Paper]()][[Project Page]()]**
+<!-- 
+#####  <p align="center"> [xxx](xxx),</p>
 
-This is the official repository of the ReinDiffuse.
+<p align="center">
+  <img src="assets/pipeline.png"/>
+</p>
+-->
+#### <p align="center">[[Project Page]()] | [[Paper]()]  </p>
 
-Coming soon!
+<p align="center">Coming soon!... 🏗️ 🚧 🔨</p>
