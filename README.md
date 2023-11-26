@@ -1,6 +1,6 @@
 # ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model
 
-#### <p align="center">[[Project Page]()] | [[Paper]()]  </p>
+#### <p align="center">[[Project Page](https://reindiffuse.github.io)] | [[Paper]()]  </p>
 <!-- 
 #####  <p align="center"> [xxx](xxx),</p>
 -->
